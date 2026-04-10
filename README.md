@@ -6,7 +6,7 @@ A modern travel booking website built using React + Vite and deployed using GitH
 
 ## 🌐 Live Website
 > Add your live URL here after deployment  
-Example: http://your-server-ip
+Example: http://www.sivakasitravels.in
 
 ---
 
