@@ -30,6 +30,3 @@ Example: http://www.sivakasitravels.in
 - JavaScript
 - Tailwind CSS (if used)
 
----
-
-## 📁 Project Structure
